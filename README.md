@@ -1,1 +1,3 @@
-# MrMax34.github.io
+layout: page
+title: "PAGE-TITLE"
+permalink: /page
